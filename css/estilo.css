@@ -1,0 +1,11 @@
+.texto
+{
+    text-align: center;
+}
+
+#respuesta
+{
+    font-size: 350%;
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
